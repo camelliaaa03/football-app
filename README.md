@@ -10,8 +10,8 @@ Aplikasi sederhana ini untuk mencatat data klub dan skor pertandingan sepakbola
 ## Cara menjalankan
 1. Clone Repositori ini
 ```bash
-git clone https://github.com/camelliaaa03/football-mini-application.git
-cd football-mini-application
+git clone https://github.com/camelliaaa03/football-app.git
+cd football-app
 ```
 2. Install Dependensi
 npm install
