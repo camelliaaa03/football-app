@@ -4,10 +4,8 @@ Aplikasi sederhana ini untuk mencatat data klub dan skor pertandingan sepakbola
 
 ## Fitur
 - Input data klub.
-    ![Tampilan Aplikasi](football_1.jpg)
 - Input skor pertandingan
 - Tampilan klasemen
-    ![Tampilan Klasemen](football_2.jpg)
 
 ## Cara menjalankan
 1. Clone Repositori ini
